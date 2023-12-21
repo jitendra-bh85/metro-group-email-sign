@@ -86,6 +86,10 @@ body {
   padding-left: 0px;
 }
 
+.cl_addr {
+  vertical-align: top;
+  margin-top: 0;
+}
 
 .cl_addr span, .cl_email span, .cl_mobile span {
   font-family: 'Didact Gothic', sans-serif;
